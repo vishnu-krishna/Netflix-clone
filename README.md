@@ -1,6 +1,6 @@
 # This is a netflix clone developed using React + Node + Express + MongoDB (MERN)
 
-<div align="center">
+<div align="left">
     Website and express backend both hosted and deployed at Firebase<br/> 
      Live website is deployed <a href="https://netflix-clone-api-d52a7.web.app/" target="_blank"><b>HERE</b></a>.
 </div>
